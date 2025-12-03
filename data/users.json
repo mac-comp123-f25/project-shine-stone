@@ -1,0 +1,26 @@
+[
+    {
+        "username": "aisling06",
+        "password": "LeLe20060714",
+        "habits": [
+            {
+                "name": "drink water",
+                "goal": 10,
+                "progress": 0,
+                "timeframe": "morning"
+            },
+            {
+                "name": "gym",
+                "goal": 2,
+                "progress": 0,
+                "timeframe": "evening"
+            },
+            {
+                "name": "stand",
+                "goal": 5,
+                "progress": 5,
+                "timeframe": "morning"
+            }
+        ]
+    }
+]
