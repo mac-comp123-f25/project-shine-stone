@@ -40,5 +40,17 @@
                 "timeframe": "all"
             }
         ]
+    },
+    {
+        "username": "Zora",
+        "password": "123456",
+        "habits": [
+            {
+                "name": "HW",
+                "goal": 5,
+                "progress": 1,
+                "timeframe": "all"
+            }
+        ]
     }
 ]
