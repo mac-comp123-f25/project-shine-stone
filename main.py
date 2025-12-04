@@ -1,7 +1,7 @@
 import tkinter as tk
 from screens.login import LoginScreen
 from screens.signup import SignupScreen
-from screens.habits import HabitsScreen   # ← 你必须有这个文件
+from screens.habits import HabitsScreen
 
 class App(tk.Tk):
     def __init__(self):
@@ -22,7 +22,7 @@ class App(tk.Tk):
         self.current_screen = LoginScreen(
             master=self,
             go_signup=self.show_signup,
-            go_habits=self.show_habits         # ← 关键
+            go_habits=self.show_habits
         )
 
     def show_signup(self):

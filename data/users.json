@@ -6,13 +6,13 @@
             {
                 "name": "drink water",
                 "goal": 10,
-                "progress": 0,
+                "progress": 5,
                 "timeframe": "morning"
             },
             {
                 "name": "gym",
                 "goal": 2,
-                "progress": 0,
+                "progress": 2,
                 "timeframe": "evening"
             },
             {
@@ -20,6 +20,24 @@
                 "goal": 5,
                 "progress": 5,
                 "timeframe": "morning"
+            },
+            {
+                "name": "piano",
+                "goal": 1,
+                "progress": 1,
+                "timeframe": "evening"
+            },
+            {
+                "name": "reading",
+                "goal": 3,
+                "progress": 0,
+                "timeframe": "all"
+            },
+            {
+                "name": "eat",
+                "goal": 3,
+                "progress": 0,
+                "timeframe": "all"
             }
         ]
     }

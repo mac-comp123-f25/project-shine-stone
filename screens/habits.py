@@ -142,7 +142,7 @@ class HabitsScreen(tk.Frame):
         self.habit_name = tk.Entry(self.right, width=25)
         self.habit_name.pack(anchor="w", pady=5)
 
-        tk.Label(self.right, text="Daily Goal:", bg="white").pack(anchor="w")
+        tk.Label(self.right, text="Weekly Goal:", bg="white").pack(anchor="w")
         self.habit_goal = tk.Entry(self.right, width=10)
         self.habit_goal.pack(anchor="w", pady=5)
 
