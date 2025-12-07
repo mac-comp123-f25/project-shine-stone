@@ -19,7 +19,7 @@ class HabitsScreen(tk.Frame):
         self.go_logout = go_logout
         self.pack(fill="both", expand=True)
 
-        # Load data
+        # Load user data
         self.users = load_json(USERS)
         self.user = self.find_user(username)
 
