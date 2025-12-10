@@ -28,7 +28,7 @@ PyCharm will automatically detect the Python interpreter.
 pip install pillow
 4. Ensure file structure is correct
 The project should contain:
-project/
+ project/
 │── assets/         
 │── data/            
 │── screens/         
@@ -43,5 +43,4 @@ The habit tracker window will open automatically.
 Below are screenshots of the main UI screens:
 ![img.png](img.png)
 ![img_1.png](img_1.png)
-(Insert your Login screen screenshot) (Insert Signup screen screenshot) (Insert Habit Center screen with habits + icons)
 These images show what a typical user experience looks like, including habit rendering, progress updating, and visual icons.
