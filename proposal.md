@@ -1,4 +1,4 @@
-# Typing Speed Test
+# Habit Tracker
 
 ## Members
 
@@ -7,8 +7,8 @@
 
 ## Description
 
-We’re building a fun, interactive typing speed test using Python and Tkinter. The program shows random sentences for users to type, tracks how fast and accurately they type, and gives feedback like WPM, time, and mistakes when the test ends. It’s basically a mini desktop version of typingtest.com made by ourselves!
+We're building a Habit Tracker application using Python and Tkinter. The app allows users to sign up, log in, and manage weekly habits, with progress saved in a JSON “mini-database.” We will design a clean, dynamic interface that updates in real time, making the project both functional and practical for everyday use.
 
 ## Inspirations Behind
 
-We wanted something both practical and fun to build. Typing tests are simple, but they involve real-time input, timers, accuracy checking, and interface design. These are all things that make it a great small project to practice Python GUI programming.
+We noticed that most of the habit trackers available are too complex and full of distractions. We feel like a simple and focusd desktop tool might be more helpful for users.

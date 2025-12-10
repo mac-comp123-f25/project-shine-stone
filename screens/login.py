@@ -57,5 +57,4 @@ class LoginScreen(tk.Frame):
             messagebox.showerror("Error", "Wrong password.")
             return
 
-        # SUCCESS → go to habits page
         self.go_habits(username)
