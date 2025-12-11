@@ -44,3 +44,4 @@ Below are screenshots of the main UI screens:
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 These images show what a typical user experience looks like, including habit rendering, progress updating, and visual icons.
+[![Watch the video](https://img.youtube.com/vi/6hfRo2kyt6I/0.jpg)](https://youtu.be/6hfRo2kyt6I)
