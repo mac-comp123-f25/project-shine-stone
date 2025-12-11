@@ -50,6 +50,42 @@
                 "goal": 5,
                 "progress": 5,
                 "timeframe": "all"
+            },
+            {
+                "name": "Reading",
+                "goal": 3,
+                "progress": 1,
+                "timeframe": "evening"
+            },
+            {
+                "name": "Running",
+                "goal": 3,
+                "progress": 1,
+                "timeframe": "morning"
+            },
+            {
+                "name": "Drinking Water",
+                "goal": 14,
+                "progress": 1,
+                "timeframe": "all"
+            },
+            {
+                "name": "Dancing",
+                "goal": 3,
+                "progress": 0,
+                "timeframe": "evening"
+            }
+        ]
+    },
+    {
+        "username": "Zora19",
+        "password": "123456",
+        "habits": [
+            {
+                "name": "Reading",
+                "goal": 5,
+                "progress": 1,
+                "timeframe": "evening"
             }
         ]
     }
