@@ -88,5 +88,17 @@
                 "timeframe": "evening"
             }
         ]
+    },
+    {
+        "username": "Zora109",
+        "password": "123456",
+        "habits": [
+            {
+                "name": "Reading",
+                "goal": 5,
+                "progress": 1,
+                "timeframe": "evening"
+            }
+        ]
     }
 ]
