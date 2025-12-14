@@ -1,15 +1,14 @@
-# Project Title
-
-Check the project requirements for details what should go into this file.  Below is an outline.
+# Habit Tracker
 
 ## Members
 
-- Member 1 first name and last name initial
-- Member 2 first name and last name initial
-- Member 3 first name and last name initial
+- Aisling Li
+- Zora Shi
 
 ## Description
 
+We're building a Habit Tracker application using Python and Tkinter. The app allows users to sign up, log in, and manage weekly habits, with progress saved in a JSON “mini-database.” We will design a clean, dynamic interface that updates in real time, making the project both functional and practical for everyday use.
 
 ## Inspirations Behind
 
+We noticed that most of the habit trackers available are too complex and full of distractions. We feel like a simple and focusd desktop tool might be more helpful for users.

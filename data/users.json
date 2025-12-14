@@ -1,0 +1,104 @@
+[
+    {
+        "username": "aisling06",
+        "password": "LeLe20060714",
+        "habits": [
+            {
+                "name": "drink water",
+                "goal": 10,
+                "progress": 10,
+                "timeframe": "morning"
+            },
+            {
+                "name": "gym",
+                "goal": 2,
+                "progress": 2,
+                "timeframe": "evening"
+            },
+            {
+                "name": "stand",
+                "goal": 5,
+                "progress": 5,
+                "timeframe": "morning"
+            },
+            {
+                "name": "piano",
+                "goal": 1,
+                "progress": 1,
+                "timeframe": "evening"
+            },
+            {
+                "name": "reading",
+                "goal": 3,
+                "progress": 0,
+                "timeframe": "all"
+            },
+            {
+                "name": "eat",
+                "goal": 3,
+                "progress": 0,
+                "timeframe": "all"
+            }
+        ]
+    },
+    {
+        "username": "Zora",
+        "password": "123456",
+        "habits": [
+            {
+                "name": "HW",
+                "goal": 5,
+                "progress": 5,
+                "timeframe": "all"
+            },
+            {
+                "name": "Reading",
+                "goal": 3,
+                "progress": 1,
+                "timeframe": "evening"
+            },
+            {
+                "name": "Running",
+                "goal": 3,
+                "progress": 1,
+                "timeframe": "morning"
+            },
+            {
+                "name": "Drinking Water",
+                "goal": 14,
+                "progress": 1,
+                "timeframe": "all"
+            },
+            {
+                "name": "Dancing",
+                "goal": 3,
+                "progress": 0,
+                "timeframe": "evening"
+            }
+        ]
+    },
+    {
+        "username": "Zora19",
+        "password": "123456",
+        "habits": [
+            {
+                "name": "Reading",
+                "goal": 5,
+                "progress": 1,
+                "timeframe": "evening"
+            }
+        ]
+    },
+    {
+        "username": "Zora109",
+        "password": "123456",
+        "habits": [
+            {
+                "name": "Reading",
+                "goal": 5,
+                "progress": 1,
+                "timeframe": "evening"
+            }
+        ]
+    }
+]
